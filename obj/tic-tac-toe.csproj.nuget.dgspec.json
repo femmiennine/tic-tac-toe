@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FrancesFemilleFogart\\Desktop\\tic-tac-toe\\tic-tac-toe.csproj": {}
+    "C:\\Users\\FrancesFemilleFogart\\Desktop\\tictactoe\\tic-tac-toe\\tic-tac-toe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FrancesFemilleFogart\\Desktop\\tic-tac-toe\\tic-tac-toe.csproj": {
+    "C:\\Users\\FrancesFemilleFogart\\Desktop\\tictactoe\\tic-tac-toe\\tic-tac-toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FrancesFemilleFogart\\Desktop\\tic-tac-toe\\tic-tac-toe.csproj",
+        "projectUniqueName": "C:\\Users\\FrancesFemilleFogart\\Desktop\\tictactoe\\tic-tac-toe\\tic-tac-toe.csproj",
         "projectName": "tic-tac-toe",
-        "projectPath": "C:\\Users\\FrancesFemilleFogart\\Desktop\\tic-tac-toe\\tic-tac-toe.csproj",
+        "projectPath": "C:\\Users\\FrancesFemilleFogart\\Desktop\\tictactoe\\tic-tac-toe\\tic-tac-toe.csproj",
         "packagesPath": "C:\\Users\\FrancesFemilleFogart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FrancesFemilleFogart\\Desktop\\tic-tac-toe\\obj\\",
+        "outputPath": "C:\\Users\\FrancesFemilleFogart\\Desktop\\tictactoe\\tic-tac-toe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
